@@ -1,0 +1,16 @@
+.textbox{
+    height: 100px;
+    width: 300px;
+    margin-top: 10px;
+}
+.formbox label{
+    display: flex;
+    margin: 10px;
+}
+.subbtn{
+    margin-top: 10px;
+    height: 50px;
+    width: 90px;
+    font-weight: bolder;
+    background-color: rgb(255, 255, 255);
+}
